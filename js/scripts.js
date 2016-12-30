@@ -5,7 +5,7 @@ function rysujChoinkę(n) {
 		for (j = 1; j <= i*2-1; j++) {	  
      		var star = star + '*';
       	}
-    	console.log(star)
+    	console.log(star);
   	}
 }
 rysujChoinkę(5);
