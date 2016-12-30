@@ -7,6 +7,6 @@ function rysujChoinkę(n) {
       	}
     	console.log(star)
   	}
-};
+}
 rysujChoinkę(5);
 
